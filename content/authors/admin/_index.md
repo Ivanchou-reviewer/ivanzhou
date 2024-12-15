@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Candidate/Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -74,25 +74,15 @@ education:
     summary: |
       河北农业大学经济管理学院本科、硕士
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant/Visiting PhD
+    company_name: Uviversity of Toronto
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      中国教育部国家留学基金委公派访问多伦多大学博士研究生
       
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
