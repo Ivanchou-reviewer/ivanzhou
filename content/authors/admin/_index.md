@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+周一凡，西北农林科技大学博士研究生；多伦多大学访问博士、研究助理、CPO；研究方向为资源经济与环境管理、环境政策评估、林业经济、计量经济学等。目前研究工作主要为森林产权改革与森林生态质量，探讨气候变化背景下，森林产权制度调整的环境影响。
