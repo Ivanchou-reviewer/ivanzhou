@@ -24,14 +24,14 @@ role: PhD Candidate/Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Toronto
+  - name: Northwest A&F University/University of Toronto
     url: https://www.utoronto.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yifann.zhou@mail.utoronto.ca'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/home
@@ -50,9 +50,11 @@ interests:
   - 资源经济与环境管理
   - 林业经济
   - 计量经济学
+  - 机器学习
+  - 因果推断
 
 education:
-  - area: PhD Agriculture Economic
+  - area: Visiting PhD/Research Assistant
     institution: University of Toronto
     date_start: 2024-09-01
     date_end: 2025-08-30
