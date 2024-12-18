@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Ivan Zhou"
+      text: "周一凡 Ivan Zhou"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Copyright &copy; 2022 Ivan Zhou'
     license:
       enable: true
       allow_derivatives: false
