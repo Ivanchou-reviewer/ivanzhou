@@ -15,9 +15,11 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
+      buttons:
         text: 个人简历（Download CV）
         url: uploads/resume.pdf
+        text: Download CV
+        url: uploads/resumeeng.pdf
     design:
       css_class: dark
       background:

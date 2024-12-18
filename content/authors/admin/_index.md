@@ -46,14 +46,14 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-研究兴趣 intersts:
+intersts:
   - 资源经济与环境管理
   - 林业经济
   - 计量经济学
   - 机器学习
   - 因果推断
 
-教育经历 education:
+education:
   - area: Visiting PhD/Research Assistant
     institution: University of Toronto
     date_start: 2024-09-01
