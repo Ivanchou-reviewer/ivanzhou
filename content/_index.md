@@ -39,7 +39,6 @@ sections:
 
         此外，研究还关注不同地区和经济发展水平下的政策异质性效应，通过对自然资源产权明晰化和管理效率提升的研究，提出推动可持续森林管理和应对气候变化的实践路径。目标是为全球自然资源的高效管理和环境治理提供理论支撑和实践参考。
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
