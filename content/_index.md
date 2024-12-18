@@ -16,8 +16,11 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 个人简历（Download CV）
+        text: 个人简历（中文版）
         url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/resumeeng.pdf
     design:
       css_class: dark
       background:

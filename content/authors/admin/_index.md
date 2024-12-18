@@ -46,14 +46,14 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+研究兴趣 intersts:
   - 资源经济与环境管理
   - 林业经济
   - 计量经济学
   - 机器学习
   - 因果推断
 
-education:
+教育经历 education:
   - area: Visiting PhD/Research Assistant
     institution: University of Toronto
     date_start: 2024-09-01
@@ -158,6 +158,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 关于我 About Me
 
 周一凡，西北农林科技大学博士研究生；多伦多大学访问博士、研究助理、CPO；研究方向为资源经济与环境管理、环境政策评估、林业经济、计量经济学等。目前研究工作主要为森林产权改革与森林生态质量，探讨气候变化背景下，森林产权制度调整的环境影响。
