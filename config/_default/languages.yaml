@@ -17,6 +17,6 @@ zh:
     description: 西北农林科技大学，农林经济管理，博士研究生；多伦多大学访问博士生。
   menu:
     main:
-      - name: 传
+      - name: 周一凡
         url: '#about'
         weight: 1
