@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-周一凡，西北农林科技大学博士研究生；多伦多大学访问博士、研究助理、CPO；研究方向为资源经济与环境管理、环境政策评估、林业经济、计量经济学等。目前研究工作主要为森林产权改革与森林生态质量，探讨气候变化背景下，森林产权制度调整的环境影响。
+Ivan Zhou, Ph.D. candidate at Northwest A&F University; visiting Ph.D. student, research assistant, and CPO at the University of Toronto. My research focuses on resource economics and environmental management, environmental policy evaluation, forestry economics, and econometrics. Currently, my work mainly involves forest property rights reform and forest ecological quality, exploring the environmental impact of forest property rights adjustments in the context of climate change.

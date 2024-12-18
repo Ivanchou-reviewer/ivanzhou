@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 周一凡（Ivan Zhou）
+title: Yifan(Ivan) Zhou
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -47,11 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - 资源经济与环境管理
-  - 林业经济
-  - 计量经济学
-  - 机器学习
-  - 因果推断
+  - Resource Economics and Environmental Management
+  - Forestry Economics
+  - Econometrics
+  - Machine Learning
+  - Causal Inference
   - Structure Form
 
 education:
@@ -60,37 +60,39 @@ education:
     date_start: 2024-09-01
     date_end: 2025-08-30
     summary: |
-      多伦多大学访问博士生，研究助理
+      Visiting PhD student and research assistant at the University of Toronto
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: PhD Agriculture Economic
+  - area: PhD in Agricultural Economics
     institution: Northwest A&F University
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
-      西北农林科技大学经济管理学院，农林经济管理博士生
-  - area: 应用经济学
-    institution: 河北农业大学
+      PhD student in Agricultural Economics and Management at the College of Economics and Management, Northwest A&F University
+  - area: Applied Economics
+    institution: Hebei Agricultural University
     date_start: 2015-09-01
     date_end: 2022-06-30
     summary: |
-      河北农业大学经济管理学院硕士
-  - area: 会计学本科
-    institution: 河北农业大学
+      Master's degree in Applied Economics from the College of Economics and Management, Hebei Agricultural University
+  - area: Bachelor's in Accounting
+    institution: Hebei Agricultural University
     date_start: 2015-09-01
     date_end: 2022-06-30
     summary: |
-      河北农业大学经济管理学院本科
+      Bachelor's degree in Accounting from the College of Economics and Management, Hebei Agricultural University
+
 work:
   - position: Research Assistant/Visiting PhD
     company_name: Uviversity of Toronto
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-09-01
+    date_end: 2025-08-31
     summary: |2-
-      中国教育部国家留学基金委公派访问多伦多大学博士研究生
+      Sponsored by the China Scholarship Council, visiting PhD student at the University of Toronto
+
       
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
