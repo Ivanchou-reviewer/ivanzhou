@@ -91,7 +91,7 @@ work:
     date_end: 2025-08-31
     summary: |2-
       Sponsored by the China Scholarship Council, visiting PhD student at the University of Toronto
-
+---
 ## About Me
 
 Ivan Zhou, Ph.D. candidate at Northwest A&F University; visiting Ph.D. student, research assistant, and CPO at the University of Toronto. My research focuses on resource economics and environmental management, environmental policy evaluation, forestry economics, and econometrics. Currently, my work mainly involves forest property rights reform and forest ecological quality, exploring the environmental impact of forest property rights adjustments in the context of climate change.
