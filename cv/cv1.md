@@ -65,7 +65,7 @@
 
 1. [**第一作者**] "Forest Land Property Rights and Forest Ecosystem Quality: Evidence from Forest Land Titling Reform in China"  
    ***Journal of Environmental Management*** (2024)
-   - JCR Q1区，中科院一区，IF=8.910
+   - JCR Q1区，中科院一区TOP，IF=8.910 ABS-3星
    - DOI: https://doi.org/10.1016/j.jenvman.2024.123744
 
 2. [**第一作者**] "Carbon sequestration costs and spatial spillover effects in China's collective forests"  
