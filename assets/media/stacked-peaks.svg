@@ -5,9 +5,9 @@
   <defs>
     <linearGradient id="peakGradient" x1="0%" y1="0%" x2="0%" y2="100%">
       <!-- 起始色：稳重深蓝 -->
-      <stop offset="0%" stop-color="#1F3C88" />
+      <stop offset="0%" stop-color="#1976D2" />
       <!-- 终止色：清爽青蓝 -->
-      <stop offset="100%" stop-color="#61A4BC" />
+      <stop offset="100%" stop-color="#26A69A" />
     </linearGradient>
   </defs>
 
