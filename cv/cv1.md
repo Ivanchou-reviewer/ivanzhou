@@ -65,17 +65,17 @@
 
 1. [**第一作者**] "Forest Land Property Rights and Forest Ecosystem Quality: Evidence from Forest Land Titling Reform in China"  
    ***Journal of Environmental Management*** (2024)
-   - JCR Q1区，中科院一区TOP，IF=8.910 ABS-3星
+   - JCR Q1区，2022中科院一区，2025中科院二区TOP，IF=8.910 ABS-3星
    - DOI: https://doi.org/10.1016/j.jenvman.2024.123744
 
 2. [**第一作者**] "Carbon sequestration costs and spatial spillover effects in China's collective forests"  
    ***Carbon Balance and Management*** (2023)
-   - JCR Q2区，中科院三区，IF=4.893
+   - JCR Q2区，2025中科院二区，IF=4.893
    - DOI: https://doi.org/10.1186/s13021-024-00261-5
 
 3. [**第三作者**] "Spatiotemporal Evolution and Influencing Factors of Carbon Sink Dynamics at County Scale: A Case Study of Shaanxi Province, China"  
    ***International Journal of Environmental Research and Public Health*** (2023)
-   - SSCI收录，JCR Q1区，IF=4.614
+   - SSCI收录，JCR Q1区，2025中科院三区，IF=4.614
    - DOI: https://doi.org/10.3390/ijerph182413081
 
 #### **CSSCI/CSCD等中文期刊论文**
