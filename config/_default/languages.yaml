@@ -1,0 +1,22 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 周一凡
+  params:
+    description: 西北农林科技大学，农林经济管理，博士研究生；多伦多大学，访问博士生
+  menu:
+    main:
+      - name: 周一凡
+        url: '#about'
+        weight: 1
